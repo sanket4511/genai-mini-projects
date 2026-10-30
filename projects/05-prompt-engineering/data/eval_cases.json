@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Summarize a product review.",
+    "requirements": ["Use one sentence.", "Use only details in the review."],
+    "expected_keys": ["summary", "evidence"],
+    "mock_result": {"summary": "The reviewer liked the battery life.", "evidence": ["battery lasted all day"]}
+  },
+  {
+    "task": "Extract a meeting date.",
+    "requirements": ["Use null when no date is present.", "Do not guess."],
+    "expected_keys": ["summary", "evidence"],
+    "mock_result": {"summary": null, "evidence": []}
+  }
+]

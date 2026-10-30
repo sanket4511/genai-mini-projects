@@ -1,0 +1,4 @@
+Solar panels convert sunlight into electricity using photovoltaic cells.
+Wind turbines use moving air to spin blades and generate electricity.
+Hydropower produces electricity by moving water through turbines.
+Insulation helps buildings keep heat inside during cold weather.

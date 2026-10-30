@@ -1,0 +1,9 @@
+.env
+**/.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.sqlite3
+*.db
+projects/13-conversational-rag/chat_history.json

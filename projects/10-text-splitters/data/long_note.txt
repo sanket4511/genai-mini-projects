@@ -1,0 +1,1 @@
+A useful document chunk should keep related ideas together. If chunks are too short, details may be separated from context. If chunks are too long, retrieval can return more text than a model can use. Overlap repeats a few words from one chunk in the next so nearby sentences retain continuity. Chunk size and overlap should be tested against documents and questions.

@@ -1,0 +1,1 @@
+Solar panels convert sunlight into electricity using photovoltaic cells. An inverter changes direct current into alternating current for household use. A battery stores extra solar energy so it can be used later. Panels may produce less power on cloudy days, but they still work.

@@ -1,0 +1,1 @@
+Photovoltaic solar cells absorb sunlight and convert it into direct-current electricity. An inverter converts direct current into alternating current for household devices. Solar panels can produce less electricity on cloudy days, and batteries store energy for later use.

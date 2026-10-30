@@ -1,0 +1,1 @@
+tokenization turns words into tokens. tokens can be reused across text. a tokenizer builds pieces from repeated patterns.

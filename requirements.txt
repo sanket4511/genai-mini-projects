@@ -1,0 +1,2 @@
+# Install dependencies from each projects/*/requirements.txt file.
+# Most projects use only the Python standard library.

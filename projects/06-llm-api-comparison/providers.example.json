@@ -1,0 +1,6 @@
+{
+  "providers": [
+    {"name": "primary", "base_url_env": "LLM_API_BASE_URL", "model_env": "LLM_MODEL", "api_key_env": "LLM_API_KEY"},
+    {"name": "candidate", "base_url_env": "CANDIDATE_API_BASE_URL", "model_env": "CANDIDATE_MODEL", "api_key_env": "CANDIDATE_API_KEY"}
+  ]
+}

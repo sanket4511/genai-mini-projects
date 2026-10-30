@@ -1,0 +1,3 @@
+Solar panels turn sunlight into electrical power.
+Wind farms generate electricity from moving air.
+A vector database stores embeddings and retrieves nearby vectors.

@@ -1,0 +1,1 @@
+The little language model learns patterns from examples. The model predicts one character at a time. A warmer temperature adds variety, while a cooler temperature favors common continuations. This small demo is not a pretrained large language model.
